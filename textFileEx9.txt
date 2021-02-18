@@ -1,3 +1,0 @@
-New file for testing .gitignore
-new line added
-asda
